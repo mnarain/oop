@@ -11,3 +11,7 @@ Opdracht 3:
 Maak een nieuw person object aan en sla deze op in een variable person2. 
 Geef een naam en een id nummer aan de persoon.
 registreer person 2 als de nieuwe owner van dog2
+
+opdracht 3 in praktijk vorm zou dit inhouden b.v.
+Fifi(a dog) is verkocht aan een nieuwe eigenaar. 
+de dieren polie verricht de overschrijving van FiFi(a dog) aan haar nieuwe eigenaar
