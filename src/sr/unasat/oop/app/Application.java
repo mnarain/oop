@@ -24,6 +24,18 @@ public class Application {
         dog2.name = "Fifi";
         dog2.owner = person;
         dog2.printInfo();
+
+        System.out.println();
+
+        Person person2 = new Person();
+        person2.name = "Margo Tjon a Kon";
+        person2.idNumber = "WZ928733";
+        person2.printInfo();
+
+        System.out.println();
+
+        dog2.owner = person2;
+        dog2.printInfo();
     }
 
 
