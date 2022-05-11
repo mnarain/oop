@@ -15,14 +15,14 @@ public class Application {
 
         Dog dog1 = new Dog();
         dog1.name = "Bello";
-        dog1.owner = "Maarten Narain";
+        dog1.owner = person;
         dog1.printInfo();
 
         System.out.println();
 
         Dog dog2 = new Dog();
         dog2.name = "Fifi";
-        dog2.owner = "Maarten Narain";
+        dog2.owner = person;
         dog2.printInfo();
     }
 
