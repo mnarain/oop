@@ -15,3 +15,10 @@ registreer person 2 als de nieuwe owner van dog2
 opdracht 3 in praktijk vorm zou dit inhouden b.v.
 Fifi(a dog) is verkocht aan een nieuwe eigenaar. 
 de dieren polie verricht de overschrijving van FiFi(a dog) aan haar nieuwe eigenaar
+
+
+Opdracht 4:
+Vanaf nu zijn datamembers altijd private.
+gebruik getters en setters om data te wijzigen of op te halen.
+Voor de Person class zijn de getters en setters al geplaatst en de nodige correcties gepleegd in de aplication class.
+Werk de DOG class verder bij en pleeg de nodige correcties voor de Application class om de applicatie weer werkende te krijgen.
