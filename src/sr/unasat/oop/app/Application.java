@@ -14,15 +14,15 @@ public class Application {
     //    System.out.println();
 
         Dog dog1 = new Dog();
-        dog1.name = "Bello";
-        dog1.owner = person;
+        dog1.setName("Bello");
+        dog1.setOwner(person);
     //    dog1.printInfo();
 
    //     System.out.println();
 
         Dog dog2 = new Dog();
-        dog2.name = "Tres";
-        dog2.owner = person;
+        dog2.setName("Tres");
+        dog2.setOwner(person);
     //    dog2.printInfo();
 
     //    System.out.println();
