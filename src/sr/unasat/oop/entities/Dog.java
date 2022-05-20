@@ -6,23 +6,8 @@ public class Dog {
 
     public void printInfo(){
         System.out.println("Name: " + name);
-        System.out.println("Owner name: " + owner.getName());
-        System.out.println("Owner id number: " + owner.getIdNumber());
+        System.out.println("Owner name: " + owner.name);
+        System.out.println("Owner idNumber: " + owner.idNumber);
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Person getOwner() {
-        return owner;
-    }
-
-    public void setOwner(Person owner) {
-        this.owner = owner;
-    }
 }

@@ -9,27 +9,27 @@ public class Application {
         Person person = new Person();
         person.setName("Maarten Narain");
         person.setIdNumber("YX209374");
-    //    person.printInfo();
+        person.printInfo();
 
     //    System.out.println();
 
         Dog dog1 = new Dog();
-        dog1.setName("Bello");
-        dog1.setOwner(person);
+        dog1.name = "Bello";
+        dog1.owner = person;
     //    dog1.printInfo();
 
    //     System.out.println();
 
         Dog dog2 = new Dog();
-        dog2.setName("Tres");
-        dog2.setOwner(person);
+        dog2.name = "Tres";
+        dog2.owner = person;
     //    dog2.printInfo();
 
     //    System.out.println();
 
         Person person2 = new Person();
-        person2.setName("Margo Tjon a Kon");
-        person2.setIdNumber("WZ928733");
+        person2.name = "Margo Tjon a Kon";
+        person2.idNumber = "WZ928733";
       //  person2.printInfo();
 
         System.out.println();
